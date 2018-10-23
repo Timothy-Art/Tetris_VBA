@@ -1,7 +1,10 @@
-# Tetris_VBA
-A game of tetris coded in VBA for Excel
+# Tetris - VBA 
 
-Tetris.v2.xlsm contains all of the code for the most recent version of the game.
+A game of tetris coded in VBA for Excel for Windows.
 
-The zip file contains everything needed to run the game.
-Extract the folder and run the Tetris.v2.xlsm in Excel.
+Open `Tetris.xlsm` in Excel and press the `[TETRIS]` button to start the game.
+
+You need to have Macros enabled to play the game.
+
+The application only works on Windows as it makes use of the API.
+
